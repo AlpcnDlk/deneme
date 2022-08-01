@@ -24,11 +24,9 @@
 
 ## About The Project
 
-DevOps is an organizational approach that enables faster development of applications and easier maintenance of existing deployments. By enabling organizations to create stronger bonds between Dev, Ops and other stakeholders in the company, DevOps promotes shorter, more controllable iterations through the adoption of best practices, automation and new tools. DevOps is not a technology per se, but it covers everything from the organisation to culture, processes and tooling.
+DevOps is an organizational approach that enables faster development of applications and easier maintenance of existing deployments. By enabling organizations to create stronger bonds between Dev, Ops and other stakeholders in the company, DevOps promotes shorter, more controllable iterations through the adoption of best practices, automation and new tools. 
 
-### Built With
-
-* [![JQuery][JQuery.com]][JQuery-url]
+The project is an example of DevOps logic. You can live the same experience as I do from anywhere you want. All you have to do is having a computer.
 
 ## Getting Started
 
@@ -36,11 +34,16 @@ DevOps is an organizational approach that enables faster development of applicat
 
 ### Prerequisites
 
+!Warning!
+If you have APPLE M1 or AMD(some of them doesn't have drivers for Linux) processor, you may not use VirtualBox. Please try on another computer.
 
+*VirtualBox(Latest version)
+*Vagrant(Latest version)
+*At least 3 GB of free disk storage 
 
 ### Installation
 
-
+You should install VirtualBox first then Vagrant.
 
 ## Usage
 
@@ -58,6 +61,4 @@ Alpcan İlhami Dalak - [@linkedin](https://www.linkedin.com/in/alpcandalak/) - a
 Project Link: [https://github.com/AlpcnDlk/flask_study](https://github.com/AlpcnDlk/flask_study)
 
 
-[product-screenshot]: images/screenshot.png
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[product-screenshot]: img/terminal.png
