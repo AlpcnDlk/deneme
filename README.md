@@ -30,12 +30,10 @@ The project is an example of DevOps logic. You can live the same experience as I
 
 ## Getting Started
 
-
+! Warning !
+* If you have APPLE M1 or AMD(some of them doesn't have drivers for Linux) processor, you may not use VirtualBox. Please try on another computer.
 
 ### Prerequisites
-
-!Warning!
-If you have APPLE M1 or AMD(some of them doesn't have drivers for Linux) processor, you may not use VirtualBox. Please try on another computer.
 
 1. VirtualBox(Latest version)
 2. Vagrant(Latest version)
