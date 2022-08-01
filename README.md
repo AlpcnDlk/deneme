@@ -37,9 +37,9 @@ The project is an example of DevOps logic. You can live the same experience as I
 !Warning!
 If you have APPLE M1 or AMD(some of them doesn't have drivers for Linux) processor, you may not use VirtualBox. Please try on another computer.
 
- *VirtualBox(Latest version)
- *Vagrant(Latest version)
- *At least 3 GB of free disk storage 
+1. VirtualBox(Latest version)
+2. Vagrant(Latest version)
+3. At least 3 GB of free disk storage 
 
 ### Installation
 
@@ -47,7 +47,14 @@ You should install VirtualBox first then Vagrant.
 
 ## Usage
 
-
+Clone the git repository.
+```sh
+   git clone https://github.com/AlpcnDlk/flask_study.git
+   ```
+Get into the "flask_study" folder and run Vagrant.
+```sh
+   vagrant up
+   ```
 
 ## License
 
