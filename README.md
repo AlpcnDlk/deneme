@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AlpcnDlk/flask_study">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/devops.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Vagrant Flask Challenge</h3>
@@ -37,7 +37,8 @@ The project is an example of DevOps logic. You can live the same experience as I
 
 1. VirtualBox(Latest version)
 2. Vagrant(Latest version)
-3. At least 3 GB of free disk storage 
+3. Ansible(Latest version)
+4. At least 3 GB of free disk storage 
 
 ### Installation
 
@@ -53,6 +54,8 @@ Get into the "flask_study" folder and run Vagrant.
 ```sh
    vagrant up
    ```
+After waiting Vagrant and Ansible doing their work, you will see "Running the Flask app" message in terminal. That means the project is ready to run.
+[![terminalss][product-screenshot]]
 
 ## License
 
